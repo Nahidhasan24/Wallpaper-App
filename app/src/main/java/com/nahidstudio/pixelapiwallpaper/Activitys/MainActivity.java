@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
     RecyclerView recyclerView;
     String BASEURL="https://api.pexels.com/v1/";
-    String apikey="563492ad6f917000010000016e5280bc549745fabb10b8c5a16d432a";
+    String apikey="your_api_key";
     int page=1;
     ProgressBar  progressBar;
     NestedScrollView nestedScrollView;
